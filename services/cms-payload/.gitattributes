@@ -1,0 +1,8 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+e34f21ea0a34d3646b29055fec3415d14250610b517dffc1a4498e502eca1f754ea81789d2e26404552ffdced48157495cc2296b32ed6c401d57e419877b4d filter=lfs diff=lfs merge=lfs -text
+9dc860119a86d96dbc06eac1e9f1ac4f2b21e49633933f25f5b05214d4f96f2129699c9fb7e20583974e8fe71d89ac645971d6192f082082ec4c6c248c36b9 filter=lfs diff=lfs merge=lfs -text
+2b7aa194d4f93c244a293efb4e77d84b1250717a939097059d1ba0c9c9e1b1e7f6b7c5c75af53bfeedd1169913b612acd75e8b7141d4f144015581fa67ea00 filter=lfs diff=lfs merge=lfs -text
+6142d224cefe7832b63444ef26393a0a6108da5a914a67c1db687f8a50b2ec43954d5b105f9a8f44ff7b01cfb5f6f2ebcf61e4a75f9440ea4968154a0af2f8 filter=lfs diff=lfs merge=lfs -text
+b9bbe62f1f99f4bb001deb85a9f267041f77e406510ada6bab472aa3b74f43915ddc4dc49fcea19160d302e3d4f66c08a043c0f5823dfbb133c219199cf23c filter=lfs diff=lfs merge=lfs -text

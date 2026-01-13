@@ -1,0 +1,64 @@
+# Git metadata
+.git
+.gitignore
+
+# Node dependencies (handled by package.json in container)
+node_modules
+inpm-debug.log
+yarn-error.log
+
+# Docker ignore file itself
+.dockerignore
+
+# Local environment variables (use Docker secrets/env vars instead)
+.env
+.env.local
+.env.*.local
+
+# Logs and temporary files
+*.log
+tmp/
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build output (rebuild inside container instead)
+build/
+dist/
+.next/
+out/
+.payload/
+.cache
+
+# Tests and coverage
+tests/
+coverage/
+
+# IDE settings
+.vscode/
+.idea/
+
+docker-compose-yml
+Dockerfile
+
+# Media & uploads (CRITICAL)
+public/media
+media
+
+# Env & secrets
+.env
+.env.*
+
+# Backups & archives
+*.tar
+*.tar.gz
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
